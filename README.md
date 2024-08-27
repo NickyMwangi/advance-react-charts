@@ -6,10 +6,10 @@ The main objection of this prohect is to understand the usage of echarts in a re
 
 **The repo show an understanding of the following!**
 
-*Installing echart and APEX charts
-*Installing chakra-ui, adding it on the app.js and setting it up.
-*React routing using react-router-dom
-*Creating bar chart, doughnut chart, Line charts, stacked bar chart
+- Installing echart and APEX charts
+- Installing chakra-ui, adding it on the app.js and setting it up.
+- React routing using react-router-dom
+- Creating bar chart, doughnut chart, Line charts, stacked bar chart
 
 # Getting Started with Create React App
 
