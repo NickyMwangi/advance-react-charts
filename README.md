@@ -1,15 +1,16 @@
 # What to expect in this APP
 
-The main objection of this prohect is to understand the usage of echarts in a react application. It was developed with reference from the echarts documentation. [Echart documentation](https://echarts.apache.org/handbook/en/get-started/)
+The main objective of this project is to understand the usage of echarts in a react application. It was developed with reference of the [Echart documentation](https://echarts.apache.org/handbook/en/get-started/)
 
-## Workking with ECharts
+## Working with ECharts
 
 **The repo show an understanding of the following!**
 
 - Installing echart and APEX charts
-- Installing chakra-ui, adding it on the app.js and setting it up.
+- Installing chakra-ui, adding it in the app.ts and setting it up.
 - React routing using react-router-dom
-- Creating bar chart, doughnut chart, Line charts, stacked bar chart
+- Creating bar chart, doughnut chart, Line charts, stacked bar chart with Echart.
+- Test chart perfomance between echart and APEX charts.
 
 # Getting Started with Create React App
 
