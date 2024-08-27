@@ -5,6 +5,7 @@ The main objection of this prohect is to understand the usage of echarts in a re
 ## Workking with ECharts
 
 **The repo show an understanding of the following!**
+
 *Installing echart and APEX charts
 *Installing chakra-ui, adding it on the app.js and setting it up.
 *React routing using react-router-dom
